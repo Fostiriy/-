@@ -1,5 +1,5 @@
-## Работа с текстом в BASH
-# Команда
+# Работа с текстом в BASH
+## Команда
 <pre>
 <code>
 cat file1.txt | tail -n 40 > file2.txt && head -n 10 file2.txt > file3.txt \
@@ -9,6 +9,5 @@ cat file1.txt | tail -n 40 > file2.txt && head -n 10 file2.txt > file3.txt \
 && sort file3.txt | uniq -c > file3.txt && cat file3.txt
 </code>
 </pre>
-
-# Результат
+## Результат
 <img src="result.png">
