@@ -1,4 +1,4 @@
-* Конфигурация NGINX
+# Конфигурация NGINX
 <pre>
 <code>
 server {
